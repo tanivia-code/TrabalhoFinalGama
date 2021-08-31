@@ -1,6 +1,6 @@
 # GERAÇÕES UNIDAS
 
-![GitHub language count](https://img.shields.io/github/languages/count/Dodots/TrabalhoFinalGama) ![Bitbucket open issues](https://img.shields.io/bitbucket/issues/Dodots/TrabalhoFinalGama) ![GitHub followers](https://img.shields.io/github/followers/Dodots) ![Github licence](https://img.shields.io/badge/license-ISC-orange)
+![GitHub language count](https://img.shields.io/github/languages/count/Dodots/TrabalhoFinalGama) ![Bitbucket open issues](https://img.shields.io/bitbucket/issues/Dodots/TrabalhoFinalGama) ![GitHub followers](https://img.shields.io/github/followers/Dodots) ![Github licence](https://img.shields.io/badge/license-ISC-darkgreen)
 
 ## <u>Projeto</u>
 
@@ -58,10 +58,10 @@ _comming soon_
 <table>
 <thead>
 <tr>
-<th style="text-align: center;><a href=""><img src="img\davidson_cardoso.png" width="115" style="max-width:100%;"><br><img src="https://img.shields.io/badge/Davidson%20Cardoso-blue?style=flat&logo=linkedin"></a></th>
-<th style="text-align: center;><a href=""><img src="img\douglas_fiorentino.png" width="115" style="max-width:100%;"><br><img src="https://img.shields.io/badge/Douglas%20Fiorentino-blue?style=flat&logo=linkedin"></a></th>
-<th style="text-align: center;><a href=""><img src="img\gabriel_miranda.png" width="115" style="max-width:100%;"><br><img src="https://img.shields.io/badge/Gabriel%20Miranda-blue?style=flat&logo=linkedin"></a></th>
-<th style="text-align: center;><a href=""><img src="img\matheus_assumpcao.png" width="115" style="max-width:100%;"><br><img src="https://img.shields.io/badge/Matheus%20Assump%C3%A7%C3%A3o-blue?style=flat&logo=linkedin"></a></th>
-<th style="text-align: center;><a href="https://linkedin.com/in/tanivia"><img src="img\tanivia_timbo.png" width="115" style="max-width:100%;"><br><img src="https://img.shields.io/badge/Tan%C3%ADvia%20Timb%C3%B3-blue?style=flat&logo=linkedin"></a></th>
+<th style="text-align: center" alt="Linkedin" target="_blank"><a href=""><img src="img\davidson_cardoso.png" width="115" style="max-width:100%;"><br><img src="https://img.shields.io/badge/Davidson%20Cardoso-blue?style=flat&logo=linkedin&link=https://www.linkedin.com/in/davidsoncardoso/"></a></th>
+<th style="text-align: center" alt="Linkedin" target="_blank"><a href=""><img src="img\douglas_fiorentino.png" width="115" style="max-width:100%;"><br><img src="https://img.shields.io/badge/Douglas%20Fiorentino-blue?style=flat&logo=linkedin&link=https://www.linkedin.com/in/douglas-carvalho-925a39140/?miniProfileUrn=urn%3Ali%3Afs_miniProfile%3AACoAACJTLO0BItBnBB-iXZRuSmLIGEVRsUpsXjE"></a></th>
+<th style="text-align: center" alt="Linkedin" target="_blank"><a href=""><img src="img\gabriel_miranda.png" width="115" style="max-width:100%;"><br><img src="https://img.shields.io/badge/Gabriel%20Miranda-blue?style=flat&logo=linkedin&link=https://www.linkedin.com/in/gabrielmdias/"></a></th>
+<th style="text-align: center" alt="Linkedin" target="_blank"><a href=""><img src="img\matheus_assumpcao.png" width="115" style="max-width:100%;"><br><img src="https://img.shields.io/badge/Matheus%20Assump%C3%A7%C3%A3o-blue?style=flat&logo=linkedin&link=https://linkedin.com/in/tanivia"></a></th>
+<th style="text-align: center" alt="Linkedin" target="_blank"><a href="https://linkedin.com/in/tanivia"><img src="img\tanivia_timbo.png" width="115" style="max-width:100%;"><br><img src="https://img.shields.io/badge/Tanívia%20Timbó-blue?style=flat&logo=linkedin&link=https://linkedin.com/in/tanivia"></a></th>
 </thead>
 </table>
